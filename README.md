@@ -30,7 +30,7 @@ Aqui registro minha evolução em raciocínio lógico, resolução de problemas 
 
 ## ⚙️ Tecnologias
 
-- Python
+- Java
 - Git & GitHub
 
 ---
